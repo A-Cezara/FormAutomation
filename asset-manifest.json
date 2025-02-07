@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FormAutomation/static/css/main.7acaea2f.css",
+    "main.js": "/FormAutomation/static/js/main.07d3183d.js",
+    "index.html": "/FormAutomation/index.html",
+    "main.7acaea2f.css.map": "/FormAutomation/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/FormAutomation/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
